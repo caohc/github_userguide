@@ -1,0 +1,9 @@
+Github
+
+1 如何网上的代码下载到本地
+
+首先，复制仓库地址，并在本地执行命令
+git clone https://github.com/……
+git status 查看状态
+
+
