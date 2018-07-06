@@ -7,3 +7,8 @@ git clone https://github.com/……
 git status 查看状态
 
 
+git add +文件名     将新文件保存到中转的待上传区域
+git commit -m "  "  写备注
+git push 正式上传到远程
+
+
