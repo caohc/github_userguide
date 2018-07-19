@@ -1,5 +1,6 @@
 Github
 
+登录 ssh -T git@github.com
 在本地建立一个git文件
 
 首先，复制仓库地址，并在本地执行命令
